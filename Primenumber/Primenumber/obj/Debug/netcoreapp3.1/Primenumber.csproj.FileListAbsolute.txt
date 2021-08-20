@@ -1,0 +1,12 @@
+C:\Users\HP\csharp\DataStructures\Primenumber\Primenumber\bin\Debug\netcoreapp3.1\Primenumber.exe
+C:\Users\HP\csharp\DataStructures\Primenumber\Primenumber\bin\Debug\netcoreapp3.1\Primenumber.deps.json
+C:\Users\HP\csharp\DataStructures\Primenumber\Primenumber\bin\Debug\netcoreapp3.1\Primenumber.runtimeconfig.json
+C:\Users\HP\csharp\DataStructures\Primenumber\Primenumber\bin\Debug\netcoreapp3.1\Primenumber.runtimeconfig.dev.json
+C:\Users\HP\csharp\DataStructures\Primenumber\Primenumber\bin\Debug\netcoreapp3.1\Primenumber.dll
+C:\Users\HP\csharp\DataStructures\Primenumber\Primenumber\bin\Debug\netcoreapp3.1\Primenumber.pdb
+C:\Users\HP\csharp\DataStructures\Primenumber\Primenumber\obj\Debug\netcoreapp3.1\Primenumber.AssemblyInfoInputs.cache
+C:\Users\HP\csharp\DataStructures\Primenumber\Primenumber\obj\Debug\netcoreapp3.1\Primenumber.AssemblyInfo.cs
+C:\Users\HP\csharp\DataStructures\Primenumber\Primenumber\obj\Debug\netcoreapp3.1\Primenumber.csproj.CoreCompileInputs.cache
+C:\Users\HP\csharp\DataStructures\Primenumber\Primenumber\obj\Debug\netcoreapp3.1\Primenumber.dll
+C:\Users\HP\csharp\DataStructures\Primenumber\Primenumber\obj\Debug\netcoreapp3.1\Primenumber.pdb
+C:\Users\HP\csharp\DataStructures\Primenumber\Primenumber\obj\Debug\netcoreapp3.1\Primenumber.genruntimeconfig.cache

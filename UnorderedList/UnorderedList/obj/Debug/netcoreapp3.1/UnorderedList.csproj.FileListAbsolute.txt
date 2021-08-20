@@ -1,0 +1,13 @@
+C:\Users\HP\csharp\DataStructures\UnorderedList\UnorderedList\obj\Debug\netcoreapp3.1\UnorderedList.csproj.AssemblyReference.cache
+C:\Users\HP\csharp\DataStructures\UnorderedList\UnorderedList\obj\Debug\netcoreapp3.1\UnorderedList.AssemblyInfoInputs.cache
+C:\Users\HP\csharp\DataStructures\UnorderedList\UnorderedList\obj\Debug\netcoreapp3.1\UnorderedList.AssemblyInfo.cs
+C:\Users\HP\csharp\DataStructures\UnorderedList\UnorderedList\obj\Debug\netcoreapp3.1\UnorderedList.csproj.CoreCompileInputs.cache
+C:\Users\HP\csharp\DataStructures\UnorderedList\UnorderedList\bin\Debug\netcoreapp3.1\UnorderedList.exe
+C:\Users\HP\csharp\DataStructures\UnorderedList\UnorderedList\bin\Debug\netcoreapp3.1\UnorderedList.deps.json
+C:\Users\HP\csharp\DataStructures\UnorderedList\UnorderedList\bin\Debug\netcoreapp3.1\UnorderedList.runtimeconfig.json
+C:\Users\HP\csharp\DataStructures\UnorderedList\UnorderedList\bin\Debug\netcoreapp3.1\UnorderedList.runtimeconfig.dev.json
+C:\Users\HP\csharp\DataStructures\UnorderedList\UnorderedList\bin\Debug\netcoreapp3.1\UnorderedList.dll
+C:\Users\HP\csharp\DataStructures\UnorderedList\UnorderedList\bin\Debug\netcoreapp3.1\UnorderedList.pdb
+C:\Users\HP\csharp\DataStructures\UnorderedList\UnorderedList\obj\Debug\netcoreapp3.1\UnorderedList.dll
+C:\Users\HP\csharp\DataStructures\UnorderedList\UnorderedList\obj\Debug\netcoreapp3.1\UnorderedList.pdb
+C:\Users\HP\csharp\DataStructures\UnorderedList\UnorderedList\obj\Debug\netcoreapp3.1\UnorderedList.genruntimeconfig.cache

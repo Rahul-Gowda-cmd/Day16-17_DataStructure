@@ -1,0 +1,13 @@
+C:\Users\HP\csharp\DataStructures\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.exe
+C:\Users\HP\csharp\DataStructures\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.deps.json
+C:\Users\HP\csharp\DataStructures\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.runtimeconfig.json
+C:\Users\HP\csharp\DataStructures\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.runtimeconfig.dev.json
+C:\Users\HP\csharp\DataStructures\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.dll
+C:\Users\HP\csharp\DataStructures\Permutation\Permutation\bin\Debug\netcoreapp3.1\Permutation.pdb
+C:\Users\HP\csharp\DataStructures\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.csproj.AssemblyReference.cache
+C:\Users\HP\csharp\DataStructures\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.AssemblyInfoInputs.cache
+C:\Users\HP\csharp\DataStructures\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.AssemblyInfo.cs
+C:\Users\HP\csharp\DataStructures\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.csproj.CoreCompileInputs.cache
+C:\Users\HP\csharp\DataStructures\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.dll
+C:\Users\HP\csharp\DataStructures\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.pdb
+C:\Users\HP\csharp\DataStructures\Permutation\Permutation\obj\Debug\netcoreapp3.1\Permutation.genruntimeconfig.cache

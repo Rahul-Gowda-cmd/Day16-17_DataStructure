@@ -1,0 +1,12 @@
+C:\Users\HP\csharp\DataStructures\PrimePalindrome\PrimePalindrome\bin\Debug\netcoreapp3.1\PrimePalindrome.exe
+C:\Users\HP\csharp\DataStructures\PrimePalindrome\PrimePalindrome\bin\Debug\netcoreapp3.1\PrimePalindrome.deps.json
+C:\Users\HP\csharp\DataStructures\PrimePalindrome\PrimePalindrome\bin\Debug\netcoreapp3.1\PrimePalindrome.runtimeconfig.json
+C:\Users\HP\csharp\DataStructures\PrimePalindrome\PrimePalindrome\bin\Debug\netcoreapp3.1\PrimePalindrome.runtimeconfig.dev.json
+C:\Users\HP\csharp\DataStructures\PrimePalindrome\PrimePalindrome\bin\Debug\netcoreapp3.1\PrimePalindrome.dll
+C:\Users\HP\csharp\DataStructures\PrimePalindrome\PrimePalindrome\bin\Debug\netcoreapp3.1\PrimePalindrome.pdb
+C:\Users\HP\csharp\DataStructures\PrimePalindrome\PrimePalindrome\obj\Debug\netcoreapp3.1\PrimePalindrome.AssemblyInfoInputs.cache
+C:\Users\HP\csharp\DataStructures\PrimePalindrome\PrimePalindrome\obj\Debug\netcoreapp3.1\PrimePalindrome.AssemblyInfo.cs
+C:\Users\HP\csharp\DataStructures\PrimePalindrome\PrimePalindrome\obj\Debug\netcoreapp3.1\PrimePalindrome.csproj.CoreCompileInputs.cache
+C:\Users\HP\csharp\DataStructures\PrimePalindrome\PrimePalindrome\obj\Debug\netcoreapp3.1\PrimePalindrome.dll
+C:\Users\HP\csharp\DataStructures\PrimePalindrome\PrimePalindrome\obj\Debug\netcoreapp3.1\PrimePalindrome.pdb
+C:\Users\HP\csharp\DataStructures\PrimePalindrome\PrimePalindrome\obj\Debug\netcoreapp3.1\PrimePalindrome.genruntimeconfig.cache
